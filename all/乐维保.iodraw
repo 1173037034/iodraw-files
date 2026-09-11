@@ -271,41 +271,11 @@
         <mxCell id="sp80Tgb-JyotUnczJZtb-109" value="签出&lt;div&gt;手动 | 自动&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2844" y="200" width="176" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-110" value="签入" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2697" y="315" width="120" height="60" as="geometry" />
+        <mxCell id="sp80Tgb-JyotUnczJZtb-123" value="签入&lt;div&gt;手动&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2696" y="318" width="153" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-111" value="签出" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2831" y="315" width="179" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-113" value="签出" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2834" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-114" value="签入" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2700" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-115" value="签出" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2835" y="539" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-116" value="签入" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2701" y="539" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-117" value="签出" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2839" y="660" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-118" value="签入" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2705" y="660" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-119" value="签出" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2836" y="756" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-120" value="签入" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2702" y="756" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-121" value="签出" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2836" y="851" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-122" value="签入" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2702" y="851" width="120" height="60" as="geometry" />
+        <mxCell id="sp80Tgb-JyotUnczJZtb-124" value="签出&lt;div&gt;手动 | 自动&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2845" y="318" width="176" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
