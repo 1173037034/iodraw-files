@@ -148,7 +148,7 @@
         <mxCell id="sp80Tgb-JyotUnczJZtb-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="sp80Tgb-JyotUnczJZtb-49" target="sp80Tgb-JyotUnczJZtb-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-56" value="未出勤" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sp80Tgb-JyotUnczJZtb-53">
+        <mxCell id="sp80Tgb-JyotUnczJZtb-56" value="未出勤" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="sp80Tgb-JyotUnczJZtb-53">
           <mxGeometry x="-0.4433" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
