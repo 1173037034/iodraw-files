@@ -139,8 +139,11 @@
         <mxCell id="sp80Tgb-JyotUnczJZtb-45" value="选择退勤" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="sp80Tgb-JyotUnczJZtb-39" target="sp80Tgb-JyotUnczJZtb-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sp80Tgb-JyotUnczJZtb-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sp80Tgb-JyotUnczJZtb-47" target="sp80Tgb-JyotUnczJZtb-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-47" value="保全个人状态变更" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="160" width="300" height="60" as="geometry" />
+          <mxGeometry x="1705" y="160" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sp80Tgb-JyotUnczJZtb-49" target="sp80Tgb-JyotUnczJZtb-50">
           <mxGeometry relative="1" as="geometry" />
