@@ -106,8 +106,11 @@
         <mxCell id="sp80Tgb-JyotUnczJZtb-26" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-240" y="190" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-28" value="保全出勤签到" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="sp80Tgb-JyotUnczJZtb-28" value="保全个人状态变更" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-330" y="290" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sp80Tgb-JyotUnczJZtb-30" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="390" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
