@@ -268,7 +268,7 @@
         <mxCell id="sp80Tgb-JyotUnczJZtb-108" value="签入&lt;div&gt;手动&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2710" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-109" value="签出" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="sp80Tgb-JyotUnczJZtb-109" value="签出&lt;div&gt;手动 | 自动&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2844" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-110" value="签入" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
