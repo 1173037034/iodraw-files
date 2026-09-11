@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sp80Tgb-JyotUnczJZtb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bnfHIErKZVUr3pgdi4lX-1" target="bnfHIErKZVUr3pgdi4lX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bnfHIErKZVUr3pgdi4lX-1" value="制造发单" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="420" y="300" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sp80Tgb-JyotUnczJZtb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bnfHIErKZVUr3pgdi4lX-2" target="bnfHIErKZVUr3pgdi4lX-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bnfHIErKZVUr3pgdi4lX-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="510" y="190" width="120" height="50" as="geometry" />
