@@ -44,7 +44,7 @@
           <mxGeometry x="520" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-5" value="制造发单" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="430" y="310" width="300" height="60" as="geometry" />
+          <mxGeometry x="827" y="300" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
