@@ -242,7 +242,7 @@
           <mxGeometry x="1705" y="170" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-97" value="个人状态&lt;br&gt;空闲" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2340" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="2344" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-99" value="点检作业" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2540" y="200" width="120" height="60" as="geometry" />
