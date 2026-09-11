@@ -1,0 +1,40 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="Xy5niPCRuxFPM1PVnq6s">
+    <mxGraphModel dx="1554" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bnfHIErKZVUr3pgdi4lX-1" value="制造发单" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="420" y="300" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnfHIErKZVUr3pgdi4lX-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="510" y="190" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bnfHIErKZVUr3pgdi4lX-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="70" y="190" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bnfHIErKZVUr3pgdi4lX-4" value="保全接单 或 分配" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="420" y="430" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnfHIErKZVUr3pgdi4lX-5" value="保全扫码签到" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="420" y="555" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnfHIErKZVUr3pgdi4lX-6" value="保全现状把握" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="420" y="670" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnfHIErKZVUr3pgdi4lX-7" value="保全边修边录" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="420" y="770" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnfHIErKZVUr3pgdi4lX-8" value="制造试生产" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="420" y="870" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnfHIErKZVUr3pgdi4lX-9" value="保全修理总结" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="420" y="980" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnfHIErKZVUr3pgdi4lX-11" value="保全内部审核" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1090" width="300" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
