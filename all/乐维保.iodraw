@@ -179,7 +179,7 @@
           <mxGeometry x="1780" y="640" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-63" value="是否有计划工单" style="rhombus;whiteSpace=wrap;html=1;labelBorderColor=default;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1985" y="745" width="150" height="80" as="geometry" />
+          <mxGeometry x="1780" y="790" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
