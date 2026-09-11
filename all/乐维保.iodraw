@@ -173,7 +173,7 @@
           <mxGeometry x="2000" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-58" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2160" y="570" width="120" height="50" as="geometry" />
+          <mxGeometry x="2210" y="590" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sp80Tgb-JyotUnczJZtb-62" target="sp80Tgb-JyotUnczJZtb-63">
           <mxGeometry relative="1" as="geometry" />
@@ -199,9 +199,6 @@
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-68" value="个人状态&lt;br&gt;显示未出勤" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1795" y="930" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-71" value="个人状态&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
