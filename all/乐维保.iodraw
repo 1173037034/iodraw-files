@@ -200,7 +200,7 @@
         <mxCell id="sp80Tgb-JyotUnczJZtb-68" value="个人状态&lt;br&gt;显示未出勤" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1795" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-71" value="个人状态&lt;br&gt;显示未出勤" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="sp80Tgb-JyotUnczJZtb-71" value="个人状态&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2000" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
