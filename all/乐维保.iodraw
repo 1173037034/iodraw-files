@@ -150,6 +150,11 @@
             <mxPoint x="1855" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sp80Tgb-JyotUnczJZtb-60" value="出勤" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="sp80Tgb-JyotUnczJZtb-52">
+          <mxGeometry x="-0.0298" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="sp80Tgb-JyotUnczJZtb-49" target="sp80Tgb-JyotUnczJZtb-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
