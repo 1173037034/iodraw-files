@@ -144,7 +144,7 @@
         <mxCell id="sp80Tgb-JyotUnczJZtb-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sp80Tgb-JyotUnczJZtb-47" target="sp80Tgb-JyotUnczJZtb-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-47" value="保全个人状态变更" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="sp80Tgb-JyotUnczJZtb-47" value="保全个人状态变更&lt;div&gt;出勤节点&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1705" y="160" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sp80Tgb-JyotUnczJZtb-49" target="sp80Tgb-JyotUnczJZtb-62">
@@ -202,7 +202,7 @@
         <mxCell id="sp80Tgb-JyotUnczJZtb-68" value="个人状态&lt;br&gt;显示未出勤" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1795" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-73" value="是否点击了" style="rhombus;whiteSpace=wrap;html=1;labelBorderColor=default;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="sp80Tgb-JyotUnczJZtb-73" value="" style="rhombus;whiteSpace=wrap;html=1;labelBorderColor=default;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2005" y="640" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sp80Tgb-JyotUnczJZtb-62">
