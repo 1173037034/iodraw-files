@@ -216,7 +216,7 @@
         <mxCell id="sp80Tgb-JyotUnczJZtb-73" value="工单状态在&lt;div&gt;签到之后&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBorderColor=default;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2005" y="640" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-79" value="个人状态&lt;br&gt;更新修理中" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="sp80Tgb-JyotUnczJZtb-79" value="个人状态&lt;br&gt;修理中" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2020" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
