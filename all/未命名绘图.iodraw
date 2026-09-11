@@ -13,8 +13,11 @@
         <mxCell id="bnfHIErKZVUr3pgdi4lX-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="70" y="190" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bnfHIErKZVUr3pgdi4lX-4" value="制造发单" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="430" y="310" width="300" height="60" as="geometry" />
+        <mxCell id="bnfHIErKZVUr3pgdi4lX-4" value="保全接单 或 分配" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnfHIErKZVUr3pgdi4lX-5" value="保全接单 或 分配" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="430" y="440" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
