@@ -88,7 +88,7 @@
         <mxCell id="sp80Tgb-JyotUnczJZtb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.563;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sp80Tgb-JyotUnczJZtb-5" target="sp80Tgb-JyotUnczJZtb-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-22" value="制造发单" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="sp80Tgb-JyotUnczJZtb-22" value="保全出勤签到" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="20" y="300" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
