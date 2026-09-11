@@ -241,6 +241,12 @@
         <mxCell id="sp80Tgb-JyotUnczJZtb-94" value="保全个人状态变更&lt;div&gt;出勤节点&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1705" y="170" width="300" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sp80Tgb-JyotUnczJZtb-97" value="个人状态&lt;br&gt;空闲" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sp80Tgb-JyotUnczJZtb-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.593;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sp80Tgb-JyotUnczJZtb-97" target="sp80Tgb-JyotUnczJZtb-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
