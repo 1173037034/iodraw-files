@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Xy5niPCRuxFPM1PVnq6s">
-    <mxGraphModel dx="764" dy="763" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1794" dy="975" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,10 +242,10 @@
           <mxGeometry x="1705" y="170" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-97" value="个人状态&lt;br&gt;空闲" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2344" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="2342" y="91" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-99" value="点检作业" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2540" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="2538" y="91" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-100" value="加工改善" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2540" y="320" width="120" height="60" as="geometry" />
@@ -266,10 +266,10 @@
           <mxGeometry x="2540" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-108" value="签入&lt;div&gt;手动&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2695" y="200" width="153" height="60" as="geometry" />
+          <mxGeometry x="2693" y="91" width="153" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-109" value="签出&lt;div&gt;手动 | 自动&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2844" y="200" width="176" height="60" as="geometry" />
+          <mxGeometry x="2842" y="91" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-123" value="签入&lt;div&gt;手动&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2696" y="318" width="153" height="60" as="geometry" />
