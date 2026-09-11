@@ -232,6 +232,9 @@
         <mxCell id="sp80Tgb-JyotUnczJZtb-79" value="个人状态&lt;br&gt;修理中" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2210" y="800" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sp80Tgb-JyotUnczJZtb-90" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="565" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
