@@ -28,8 +28,11 @@
         <mxCell id="bnfHIErKZVUr3pgdi4lX-8" value="制造试生产" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="420" y="870" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bnfHIErKZVUr3pgdi4lX-9" value="制造试生产" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="430" y="880" width="300" height="60" as="geometry" />
+        <mxCell id="bnfHIErKZVUr3pgdi4lX-9" value="保全修理总结" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="420" y="980" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnfHIErKZVUr3pgdi4lX-11" value="保全修理总结" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="430" y="990" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
