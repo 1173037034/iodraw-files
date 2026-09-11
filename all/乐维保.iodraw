@@ -278,7 +278,7 @@
           <mxGeometry x="2845" y="318" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-125" value="签入&lt;div&gt;自动&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2698" y="430" width="153" height="60" as="geometry" />
+          <mxGeometry x="2689" y="429" width="153" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-126" value="签出&lt;div&gt;手动&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2847" y="430" width="176" height="60" as="geometry" />
