@@ -55,6 +55,9 @@
         <mxCell id="bnfHIErKZVUr3pgdi4lX-9" value="保全修理总结" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="420" y="980" width="300" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sp80Tgb-JyotUnczJZtb-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnfHIErKZVUr3pgdi4lX-11" target="sp80Tgb-JyotUnczJZtb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bnfHIErKZVUr3pgdi4lX-11" value="制造内部审核" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="420" y="1210" width="300" height="60" as="geometry" />
         </mxCell>
@@ -68,13 +71,16 @@
           <mxGeometry x="520" y="1410" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-4" value="制造关单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1300" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-5" value="制造报修补充" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="827" y="300" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-6" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="880" y="760" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sp80Tgb-JyotUnczJZtb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sp80Tgb-JyotUnczJZtb-2" target="sp80Tgb-JyotUnczJZtb-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
