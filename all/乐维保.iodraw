@@ -145,8 +145,8 @@
         <mxCell id="sp80Tgb-JyotUnczJZtb-49" value="是否出勤" style="rhombus;whiteSpace=wrap;html=1;labelBorderColor=default;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1780" y="300" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-50" value="出勤" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2685" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="sp80Tgb-JyotUnczJZtb-50" value="状态修改" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1795" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
