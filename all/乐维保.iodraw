@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-79" value="个人状态&lt;br&gt;显示修理中" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="2022" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
