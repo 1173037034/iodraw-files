@@ -19,6 +19,9 @@
         <mxCell id="bnfHIErKZVUr3pgdi4lX-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="510" y="190" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="sp80Tgb-JyotUnczJZtb-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnfHIErKZVUr3pgdi4lX-3" target="sp80Tgb-JyotUnczJZtb-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bnfHIErKZVUr3pgdi4lX-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="110" y="190" width="120" height="50" as="geometry" />
         </mxCell>
@@ -88,8 +91,14 @@
         <mxCell id="sp80Tgb-JyotUnczJZtb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.563;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sp80Tgb-JyotUnczJZtb-5" target="sp80Tgb-JyotUnczJZtb-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sp80Tgb-JyotUnczJZtb-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sp80Tgb-JyotUnczJZtb-22" target="sp80Tgb-JyotUnczJZtb-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-22" value="保全出勤签到" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;textShadow=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="20" y="300" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sp80Tgb-JyotUnczJZtb-23" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
