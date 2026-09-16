@@ -315,7 +315,7 @@
         <mxCell id="2BId-l1rHQuCokBi-N8M-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="2BId-l1rHQuCokBi-N8M-3" target="2BId-l1rHQuCokBi-N8M-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2BId-l1rHQuCokBi-N8M-6" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2BId-l1rHQuCokBi-N8M-4">
+        <mxCell id="2BId-l1rHQuCokBi-N8M-6" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="2BId-l1rHQuCokBi-N8M-4">
           <mxGeometry x="0.1746" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -326,7 +326,7 @@
         <mxCell id="2BId-l1rHQuCokBi-N8M-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.515;entryY=0.179;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="2BId-l1rHQuCokBi-N8M-1" target="sp80Tgb-JyotUnczJZtb-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2BId-l1rHQuCokBi-N8M-7" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2BId-l1rHQuCokBi-N8M-5">
+        <mxCell id="2BId-l1rHQuCokBi-N8M-7" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="2BId-l1rHQuCokBi-N8M-5">
           <mxGeometry x="-0.1075" y="2" relative="1" as="geometry">
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
