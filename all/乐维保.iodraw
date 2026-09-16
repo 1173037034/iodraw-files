@@ -190,8 +190,10 @@
         <mxCell id="sp80Tgb-JyotUnczJZtb-62" value="是否有维修工单" style="rhombus;whiteSpace=wrap;html=1;labelBorderColor=default;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1780" y="640" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sp80Tgb-JyotUnczJZtb-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sp80Tgb-JyotUnczJZtb-63" target="sp80Tgb-JyotUnczJZtb-68" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="sp80Tgb-JyotUnczJZtb-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sp80Tgb-JyotUnczJZtb-63" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1705" y="870" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-70" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;无计划工单&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sp80Tgb-JyotUnczJZtb-69" vertex="1" connectable="0">
           <mxGeometry x="-0.3933" y="4" relative="1" as="geometry">
