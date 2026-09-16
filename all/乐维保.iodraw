@@ -235,7 +235,7 @@
           <mxGeometry x="2210" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-90" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1780" y="1413" width="120" height="50" as="geometry" />
+          <mxGeometry x="1793" y="1410" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sp80Tgb-JyotUnczJZtb-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sp80Tgb-JyotUnczJZtb-94" target="sp80Tgb-JyotUnczJZtb-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -314,6 +314,11 @@
         </mxCell>
         <mxCell id="2BId-l1rHQuCokBi-N8M-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BId-l1rHQuCokBi-N8M-3" target="2BId-l1rHQuCokBi-N8M-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BId-l1rHQuCokBi-N8M-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2BId-l1rHQuCokBi-N8M-4">
+          <mxGeometry x="0.1746" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2BId-l1rHQuCokBi-N8M-3" value="是否有协助中工单" style="rhombus;whiteSpace=wrap;html=1;labelBorderColor=default;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1780" y="935" width="150" height="80" as="geometry" />
