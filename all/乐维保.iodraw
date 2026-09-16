@@ -310,7 +310,7 @@
           <mxGeometry x="2839" y="843" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2BId-l1rHQuCokBi-N8M-1" value="是否有计划工单" style="rhombus;whiteSpace=wrap;html=1;labelBorderColor=default;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1781" y="791" width="150" height="80" as="geometry" />
+          <mxGeometry x="1781" y="910" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
